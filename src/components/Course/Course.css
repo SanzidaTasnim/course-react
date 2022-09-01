@@ -1,0 +1,11 @@
+.course-container {
+   display: flex;
+}
+.course-info {
+   display: flex;
+   flex-wrap: wrap;
+   width: 80%;
+}
+.course-cart{
+   width: 20%;
+}
